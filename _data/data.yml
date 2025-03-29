@@ -116,6 +116,36 @@ experiences:
     company: Apple | Cork, Ireland
 
 
+publications:
+  title: Publication
+  intro: |
+    A comprehensive review study was conducted as part of master's research prior to the commencement of the Practicum. 
+  papers:
+  - title: A Review of Multi-Modal Large Language and Vision Models
+    link: "https://arxiv.org/abs/2404.01322"
+    authors: Kilian Carolan, Laura Fennelly, Prof. Alan F. Smeaton
+
+
+
+skills:
+  title: Skills &amp; Proficiency
+
+  toolset:
+  - name: Python 
+    level: 75%
+
+  - name: SQL
+    level: 90%
+
+  - name: Tableau
+    level: 98%
+
+  - name: Business Intelligence & Reporting
+    level: 85%
+
+  - name: Data Analytics
+    level: 85%
+
 
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
