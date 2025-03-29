@@ -15,9 +15,9 @@ sidebar:
   # Sidebar links
   email: laurafennellyis@gmail.com
   phone: +353 87 6565 029
-  timezone: Dublin, Ireland # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+  timezone: Dublin # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
   citizenship: Irish
-  website: https://example.com/ # Include the full website URL, including "http://" or "https://".
+  website: https://laura-fennelly.github.io/online-profile/ # Include the full website URL, including "http://" or "https://".
   linkedin: www.linkedin.com/in/laura-fennelly-is
   pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
   
@@ -119,12 +119,12 @@ experiences:
     company: Apple | Cork, Ireland
 
 projects:
-  title: Projects
+  title: Masters Projects
   intro: >
-    You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    The following projects were completed as part of a Master's in Artificial Intelligence, covering various domains such as data analytics, machine learning, data visualization, AI innovation, and the final-year thesis practicum project.
   assignments:
-  - title: Velocity
-    link: "#hook"
+  - title: Analysis of Primary Biological Aerosol Particles (PBAP) to Assess COVID-19 Outbreak Risk in Meat Processing Plants: A Study on Occupancy and Environmental Factors
+    link: "https://arxiv.org/abs/2404.01322"
     tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
   - title: DevStudio
@@ -145,49 +145,34 @@ projects:
 
 
 publications:
-  title: Publications
+  title: Publication
   intro: |
-    You can list your publications in this section. Lorem ipsum dolor sit
-    amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-    bibendum fringilla a eu lectus.
+    A comprehensive review study was conducted as part of master's research prior to the commencement of the Practicum. 
   papers:
-  - title: The Art of Computer Programming
-    link: "#"
-    authors: Donald E. Knuth
-    conference: Addison-Wesley, 1968
+  - title: A Review of Multi-Modal Large Language and Vision Models
+    link: "https://arxiv.org/abs/2404.01322"
+    authors: Kilian Carolan, Laura Fennelly, Prof. Alan F. Smeaton
 
-  - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-    link: "#"
-    authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-    conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-  - title: A syntax directed compiler for Algol 60
-    link: "#"
-    authors: Edgar T. Irons
-    conference: "Comm. ACM 4 (1961), 51–55"
 
 
 skills:
   title: Skills &amp; Proficiency
 
   toolset:
-  - name: Python & Django
+  - name: Python 
+    level: 75%
+
+  - name: SQL
+    level: 90%
+
+  - name: Tableau
     level: 98%
 
-  - name: Javascript & jQuery
-    level: 98%
-
-  - name: Angular
-    level: 98%
-
-  - name: HTML5 & CSS
-    level: 95%
-
-  - name: Ruby on Rails
+  - name: Business Intelligence & Reporting
     level: 85%
 
-  - name: Sketch & Photoshop
-    level: 60%
+  - name: Data Analytics
+    level: 85%
 
-footer: >
-  Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+
+
