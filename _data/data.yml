@@ -125,7 +125,32 @@ publications:
     link: "https://arxiv.org/abs/2404.01322"
     authors: Kilian Carolan, Laura Fennelly, Prof. Alan F. Smeaton
 
+projects:
+  title: Projects
+  intro: >
+    You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+  assignments:
+  - title: Velocity
+    link: "#hook"
+    tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
+projects:
+  title: Masters Projects
+  intro: >
+    The following projects were completed as part of a Master's in Artificial Intelligence, covering various domains such as data analytics, machine learning, data visualization, AI innovation, and the final-year thesis practicum project.
+  assignments:
+  - title: A Multi-Modal Large Language Model for Enhancing Health Literacy: Generating Conversational Topics from Images for Educational Use.
+    link: "#hook"
+    tagline: "A responsive website template designed to help startups promote, market and sell their products."
+
+    #link: "assets/documents/MCM24_MM-LLM_Health_Literacy.pdf"
+    #tagline: "The PhotoVoice+ project, conducted at the Insight Centre, Dublin City University (DCU), and funded by Science Foundation Ireland (SFI), aimed to develop a smartphone application to enhance health literacy among young people. This practicum investigated the application of generative artificial intelligence (AI) to derive conversation prompts from user-uploaded images, facilitating educational discussions between students and teachers on health-related topics. The system employed Multimodal Large Language Models (MM-LLMs) to analyse visual inputs and generate contextually relevant, educationally meaningful responses. The project evaluated the feasibility of this approach by assessing model accuracy, computational efficiency, and the availability of fine-tuning data for integration into classroom settings."
+
+  - title: Analysis of Primary Biological Aerosol Particles (PBAP) to Assess COVID-19 Outbreak Risk in Meat Processing Plants: A Study on Occupancy and Environmental Factors.
+    link: "#hook"
+    tagline: "A responsive website template designed to help startups promote, market and sell their products."
+    #link: "https://arxiv.org/abs/2404.01322"
+    #tagline: "Assessment of Bioaerosol Activity in a Meat Processing Plant Using WIBS Data. Conducted a retrospective study on environmental and occupational risk factors associated with COVID-19 outbreaks in an Irish Meat Processing Plant (MPP)."
 
 skills:
   title: Skills &amp; Proficiency
