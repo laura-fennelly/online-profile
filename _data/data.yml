@@ -6,9 +6,7 @@ sidebar:
   position: left # position of the sidebar : left or right
   #about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
   education: True # set to False if you want education in main section instead of in sidebar
-  achievement: True # set to False if you want education in main section instead of in sidebar
-
-
+  
   # Profile information
   name: Laura Fennelly
   tagline: End User Automation Engineer
@@ -22,6 +20,14 @@ sidebar:
   website: https://example.com/ # Include the full website URL, including "http://" or "https://".
   linkedin: www.linkedin.com/in/laura-fennelly-is
   pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
+  
+  languages:
+    title: Achievements
+    info:
+    - idiom: Apple 2021 | Above and Beyond Award
+      level: Award is for a select few chosen across Apples operations department for going above and beyond in work and expectations
+
+
 
 
 
@@ -45,14 +51,6 @@ education:
     university: Munster Technology University
     time: 2016 - 2020  |  First Class Honours
 
-achievement:
-  title: Achievements
-  info:
-  - degree: Apple 2021 | Above and Beyond Award
-    university: Award is for a select few chosen across Apples operations department for going above and beyond in work and expectations
-  - degree: Bachelor of Business (Honours) in Business Information Systems
-    university: Munster Technology University
-    time: 2016 - 2020  |  First Class Honours
  
 
 experiences:
