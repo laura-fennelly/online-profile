@@ -125,14 +125,6 @@ publications:
     link: "https://arxiv.org/abs/2404.01322"
     authors: Kilian Carolan, Laura Fennelly, Prof. Alan F. Smeaton
 
-projects:
-  title: Projects
-  intro: >
-    You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-  assignments:
-  - title: Velocity
-    link: "#hook"
-    tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
 projects:
   title: Masters Projects
