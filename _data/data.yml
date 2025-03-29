@@ -3,9 +3,10 @@
 #
 
 sidebar:
-  position: right # position of the sidebar : left or right
-  about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+  position: left # position of the sidebar : left or right
+  #about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
   education: True # set to False if you want education in main section instead of in sidebar
+  achievement: True
 
   # Profile information
   name: Laura Fennelly
@@ -21,6 +22,8 @@ sidebar:
   linkedin: www.linkedin.com/in/laura-fennelly-is
   pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
 
+
+
 career-profile:
   title: Career Profile
   summary: |
@@ -35,12 +38,19 @@ education:
   info:
   - degree: MSc in Computing (Major in Artifical Intelligence)
     university: Dublin City University
-    time: 2022 - 2024
-    details: First Class Honours
+    time: 2022 - 2024  |  First Class Honours
   - degree: Bachelor of Business (Honours) in Business Information Systems
     university: Munster Technology University
-    time: 2016 - 2020
-    details: First Class Honours
+    time: 2016 - 2020  |  First Class Honours
+achievement:
+  title: Achievements
+  info:
+  - degree: Apple 2021 | Above and Beyond Award
+    university: Award is for a select few chosen across Apples operations department for going above and beyond in work and expectations
+  - degree: Bachelor of Business (Honours) in Business Information Systems
+    university: Munster Technology University
+    time: 2016 - 2020  |  First Class Honours
+ 
 
 experiences:
   title: Experience
@@ -78,74 +88,33 @@ experiences:
     company: Apple | Cork, Ireland
     details: |
       EMEIA Business Intelligence Analyst:
-      - Develop dynamic, user friendly and interchangeable dashboards for multi-disciplinary teams to automate manual tasks and reporting, saving the business over 30 hours of manual work weekly.
-      - Concurrently lead and developed on multiple analytic projects across different functions from Logistics, Reseller Operations, Product Readiness, Supply Planning, and Manufacturing.
-      - EMEIA representative for Quarterly Balance Scorecard, liaised with cross functional teams to supply performance commentary of KPI metrics.
+        - Develop dynamic, user friendly and interchangeable dashboards for multi-disciplinary teams to automate manual tasks and reporting, saving the business over 30 hours of manual work weekly.
+        - Concurrently lead and developed on multiple analytic projects across different functions from Logistics, Reseller Operations, Product Readiness, Supply Planning, and Manufacturing.
+        - EMEIA representative for Quarterly Balance Scorecard, liaised with cross functional teams to supply performance commentary of KPI metrics.
+      
       Business Analytics New Product Introduction lead:
       - Requirement gathering cross functionally across operations. Recognise data needs of each function and prioritising support for monthly product launches.
       - Establish and analysed plans to achieve milestones pre, during and post launch.
       - Conduct new product launch post-mortems. Investigate areas of concern, critical issues, and identify process gaps.
+     
       Project Manager of Business Analytics Retail Operations project track:
       - Provide weekly updates and host biweekly reviews for retail operations.
       - Connect and collaborate with developers and business on projects to ensure deadlines are met.
       - Managing the expectations of stakeholders, reviewing future projects on the list.
       - Analysing for any links or cross over of processes/data flows between existing, past and future projects.
-      Operations System Support Business Analytics lead
+      
+      Operations System Support Business Analytics lead.
       - Hosting System Sustaining /Preventative Management Syncs.
       - Co-ordinate function/BPR leads to help with operation system issues.
-      - Evaluated how issues affected the business, regions or departments
-  - role: UI Developer
-    time: 2012 - 2014
-    company: Amazon, London
-    details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
-
-certifications:
-  title: Certifications
-  list:
-  - name: CV Builder
-    start: 2020
-    end: 2021
-    organization: Microsoft
-    credentialid: 111-222
-    credentialurl: www.google.com
-    credentialname: Google
-    details: |
-      Details about cert. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit.
-      Nullam eget orci purus. Nullam ultrices neque nibh.
-      Aenean fermentum, felis vulputate suscipit accumsan,
-      sem enim bibendum augue, sed convallis arcu lacus at dui.
-      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-      Praesent venenatis erat non augue suscipit consectetur.
-
-      Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-      fringilla vel. Ut euismod, sem sed vulputate venenatis,
-      justo diam viverra velit, sed rhoncus leo leo eu justo.
-      Suspendisse placerat risus ante, sed porta nisi blandit at.
-  - name: Git learning
-    start: 2019
-    end:
-    organization: Microsoft
-    credentialid: 111-222
-    credentialurl: www.github.com
-    credentialname: Github
-    details: |
-      Older certification. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit.
-      Nullam eget orci purus. Nullam ultrices neque nibh.
-      Aenean fermentum, felis vulputate suscipit accumsan,
-      sem enim bibendum augue, sed convallis arcu lacus at dui.
-      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-      Praesent venenatis erat non augue suscipit consectetur.
+      - Evaluated how issues affected the business, regions or departments.
+      
+  - role: Business Analyst Intern
+    time: January 2019 - September 2019
+    company: Apple | Cork, Ireland
+        
+  - role: AppleCare Technical Support Advisor  
+    time: June 2018 – January 2019
+    company: Apple | Cork, Ireland
 
 projects:
   title: Projects
@@ -172,22 +141,6 @@ projects:
     link: "#"
     tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-oss:
-  title: OSS Contributions
-  intro: >
-    You can list your open source software contributions in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-  contributions:
-  - title: Tempo
-    link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-  - title: Atom
-    link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-  - title: Delta
-    link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
   title: Publications
@@ -211,23 +164,6 @@ publications:
     authors: Edgar T. Irons
     conference: "Comm. ACM 4 (1961), 51–55"
 
-recommendations:
-  title: Recommendations
-  list:
-  - person: Yareli Perez
-    email: perezyareli@example.com
-    phone: 012 345 6789
-    role: General Director at example.com
-    recommendation: |
-      Alan Doe is a super employee!
-  - person: Lara Henderson
-    email: larah@example.com
-    phone: 012 345 6789
-    role: General Director at example.com
-    recommendation: |
-      I would like to work with Alan Doe again!
-
-      He is a great employee!
 
 skills:
   title: Skills &amp; Proficiency
