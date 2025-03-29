@@ -21,21 +21,6 @@ sidebar:
   linkedin: www.linkedin.com/in/laura-fennelly-is
   pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
 
-  interests:
-    title: Interests
-    info:
-    - item: Climbing
-      link:
-
-
-    - item: Snowboarding
-      link:
-
-
-    - item: Cooking
-      link:
-
-
 career-profile:
   title: Career Profile
   summary: |
@@ -48,58 +33,64 @@ career-profile:
 education:
   title: Education
   info:
-  - degree: MSc in Computer Science
-    university: University of London
-    time: 2011 - 2012
-    details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - degree: BSc in Applied Mathematics
-    university: Bristol University
-    time: 2007 - 2011
-    details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
+  - degree: MSc in Computing (Major in Artifical Intelligence)
+    university: Dublin City University
+    time: 2022 - 2024
+    details: _First Class Honours_
+  - degree: Bachelor of Business (Honours) in Business Information Systems
+    university: Munster Technology University
+    time: 2016 - 2020
+    details: _First Class Honours_ 
 
 experiences:
-  title: Experiences
+  title: Experience
   info:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  - role: End User Automation Engineer
+    time: Feb 2022 - Present
+    company: DocuSign | Dublin, Ireland
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
+      Data Engineering & Analytics:
+        - Designed and developed ETL data pipelines to integrate and process data from multiple vendor APIs.
+        - Performed data wrangling: cleansing, transformation, and application of business logic to enhance data quality.
+        - Conducted data validation, schema design, and integrity checks to ensure accuracy and consistency.
+        - Designed SQL views to structure and optimise datasets for reporting.
+        - Developed Tableau dashboards, providing leadership with actionable insights.
+        - Led data-driven performance evaluations to optimise business processes and outcomes.
+        - Presented analytical findings and strategic recommendations to leadership on user engagement, operational performance, conversational intelligence, and automation opportunities.
+      Business Intelligence & Strategic Insights:
+      - Partnered with IT, business teams, and executives to define data requirements and translate business objectives into scalable technical solutions.
+      - Collaborated with cross-functional teams to define key performance indicators (KPIs) and deliver data-driven decision support.
+      - Developed business cases and data-backed proposals to drive process optimisation and efficiency.
+      - Provided analytical support for end-user escalations, enhancement requests, and ITSM integrations.
+      - Delivered insights into chatbot performance, user engagement, and deflection rates, optimising conversational AI effectiveness.
+      - Mapped dependencies for identity and access management (IAM), enhancing security and role-based access controls.
+      - Communicated complex data-driven insights through clear, executive-level reports and presentations.
+      Machine Learning & Predictive Analytics:
+      - Applied statistical methods and predictive modeling techniques to identify trends and improve forecasting accuracy.
+      - Designed, trained, tested, and deployed Natural Language Processing (NLP) models for knowledge extraction and pattern recognition.
+      - Curated domain-specific training datasets to enhance model adaptability for company use cases.
+      - Additional NLP modelling includes: custom SpaCy Named Entity Recognition (NER), Latent Dirichlet Allocation (LDA) for topic modeling, and RegEx for PII redaction.
+  - role: Business Intelligence Analyst
+    time: May 2020 - Jan 2022
+    company: Apple | Cork, Ireland
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
+      EMEIA Business Intelligence Analyst:
+      - Develop dynamic, user friendly and interchangeable dashboards for multi-disciplinary teams to automate manual tasks and reporting, saving the business over 30 hours of manual work weekly.
+      - Concurrently lead and developed on multiple analytic projects across different functions from Logistics, Reseller Operations, Product Readiness, Supply Planning, and Manufacturing.
+      - EMEIA representative for Quarterly Balance Scorecard, liaised with cross functional teams to supply performance commentary of KPI metrics.
+      Business Analytics New Product Introduction lead:
+      - Requirement gathering cross functionally across operations. Recognise data needs of each function and prioritising support for monthly product launches.
+      - Establish and analysed plans to achieve milestones pre, during and post launch.
+      - Conduct new product launch post-mortems. Investigate areas of concern, critical issues, and identify process gaps.
+      Project Manager of Business Analytics Retail Operations project track:
+      - Provide weekly updates and host biweekly reviews for retail operations.
+      - Connect and collaborate with developers and business on projects to ensure deadlines are met.
+      - Managing the expectations of stakeholders, reviewing future projects on the list.
+      - Analysing for any links or cross over of processes/data flows between existing, past and future projects.
+      Operations System Support Business Analytics lead
+      - Hosting System Sustaining /Preventative Management Syncs.
+      - Co-ordinate function/BPR leads to help with operation system issues.
+      - Evaluated how issues affected the business, regions or departments
   - role: UI Developer
     time: 2012 - 2014
     company: Amazon, London
