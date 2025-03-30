@@ -1,6 +1,6 @@
 /* ======= Base ======= */
 body {
-  font-family: "Roboto", lato;//sans-serif;
+  font-family: "Roboto", sans-serif;
   color: $text-color-secondary;
   background: $smoky-white;
   font-size: 14px;
@@ -15,7 +15,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-weight: 700;
+  font-weight: 1000;
 }
 
 a {
@@ -261,7 +261,7 @@ p,
   .publication-title {
     font-size: 20px;
     font-style: bold;
-    font-weight: 400;
+    font-weight: 700;
     color: $text-color;
     margin-bottom: 1px;
   }
