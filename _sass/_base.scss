@@ -32,14 +32,18 @@ a {
 p, 
 .profile-container, 
 .tagline, 
-.education-container .item, 
 .languages-container .lang-desc, 
 .projects-section .intro, 
 .projects-section .item, 
 .publications-section .intro, 
 .publications-section .item {
+  line-height: 1.1;
   text-align: justify;
 }
+//p {
+//  line-height: 1.5;
+//  text-align: justify;
+//}
 
 .wrapper {
   display: grid;
