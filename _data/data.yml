@@ -17,9 +17,13 @@ sidebar:
   phone: +353 87 6565 029
   timezone: Dublin # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
   citizenship: Irish
-  # website: https://laura-fennelly.github.io/online-profile/ # Include the full website URL, including "http://" or "https://".
+  website: https://github.com/laura-fennelly # Include the full website URL, including "http://" or "https://".
+  github: https://github.com/laura-fennelly
   linkedin: laura-fennelly-is
   pdf: "assets/documents/MCM24_MM-LLM_Health_Literacy.pdf" # Add a PDF link here if you want to include a PDF custom version in your resume.
+  # hackerrank: # Please provide your HackerRank username.
+  # leetcode: # Please provide your LeetCode username.
+
   
   languages:
     title: Achievements
@@ -32,10 +36,13 @@ sidebar:
 career-profile:
   title: Professional Profile
   summary: |
-   -  With over 5+ years experience in data analytics working on strategic projects to improve operational efficiency from a range of organisational domains from digital technology services, supply chain operations, manufacturing, and end-user services. 
-   -  With a strong academic foundation, including an MSc in Computing (Artificial Intelligence) and a Bachelor's in Business Information Systems. 
-   -  Experience at global organisations such as DocuSign and Apple has provided skills in presenting complex data findings for executive-level reports. Strategic projects worked on have included the designing and implementing ETL data pipelines, predictive modelling, and interactive dashboards for analytical insights. 
-   -  Looking for an opportunity to leverage current expertise in data analytics and AI-driven insights to support healthcare and operational efficiency, to provide meaningful impact to patients and end-users. Masters projects conducted research in AI-driven health literacy and epidemiological risk assessment. These projects demonstrate ability to integrate AI and data science techniques into real-world healthcare challenges.
+    With over 5+ years experience in data analytics working on strategic projects to improve operational efficiency from a range of organisational domains from digital technology services, supply chain operations, manufacturing, and end-user services. 
+    
+    With a strong academic foundation, including an MSc in Computing (Artificial Intelligence) and a Bachelor's in Business Information Systems. 
+   
+    Experience at global organisations such as DocuSign and Apple has provided skills in presenting complex data findings for executive-level reports. Strategic projects worked on have included the designing and implementing ETL data pipelines, predictive modelling, and interactive dashboards for analytical insights. 
+   
+    Looking for an opportunity to leverage current expertise in data analytics and AI-driven insights to support healthcare and operational efficiency, to provide meaningful impact to patients and end-users. Masters projects conducted research in AI-driven health literacy and epidemiological risk assessment. These projects demonstrate ability to integrate AI and data science techniques into real-world healthcare challenges.
 
 education:
   title: Education
