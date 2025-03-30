@@ -63,27 +63,6 @@ p,
   a {
     color: #fff;
   }
-}
-
-.main-wrapper {
-  grid-column: span 7;
-  order: $resume-order;
-  background: #fff;
-  padding: 60px;
-  .section-title, 
-  .job-title, 
-  .degree, 
-  .cert-title, 
-  .recommendation-person, 
-  .time, 
-  .cert-url, 
-  .company, 
-  .recommendation-role, 
-  .university, 
-  .cert-org {
-    text-align: left;
-  }
-}
   .profile-container {
     padding: 30px;
     //background: darken($theme-color, 10%);
@@ -128,7 +107,7 @@ p,
       &:last-child {
         margin-bottom: 0;
       }
-    }
+    } 
   }
   .container-block {
     padding: 30px;
@@ -196,7 +175,17 @@ p,
   order: $resume-order;
   background: #fff;
   padding: 60px;
-  .section-title {
+  .section-title, 
+  .job-title, 
+  .degree, 
+  .cert-title, 
+  .recommendation-person, 
+  .time, 
+  .cert-url, 
+  .company, 
+  .recommendation-role, 
+  .university, 
+  .cert-org {
     text-transform: uppercase;
     font-size: 20px;
     font-weight: 500;
@@ -205,6 +194,7 @@ p,
     margin-top: 0;
     margin-bottom: 20px;
   }
+}
   .section {
     margin-bottom: 60px;
   }
