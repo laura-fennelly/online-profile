@@ -5,7 +5,6 @@ body {
   background: $smoky-white;
   font-size: 14px;
   padding: 30px;
-  text-align: justify;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -30,8 +29,15 @@ a {
   }
 }
 
-p {
-  line-height: 1.5;
+p, 
+.profile-container, 
+.tagline, 
+.education-container .item, 
+.languages-container .lang-desc, 
+.projects-section .intro, 
+.projects-section .item, 
+.publications-section .intro, 
+.publications-section .item {
   text-align: justify;
 }
 
@@ -42,7 +48,6 @@ p {
   max-width: 1000px;
   margin: 0 auto;
   position: relative;
-  text-align: justify;
   @include box-shadow(0px 2px 4px rgba(0, 0, 0, 0.1));
 }
 
@@ -50,16 +55,35 @@ p {
   grid-column: span 3;
   order: $sidebar-order;
   background: $theme-color;
-  text-align: justify;
   color: #fff;
   a {
     color: #fff;
   }
+}
+
+.main-wrapper {
+  grid-column: span 7;
+  order: $resume-order;
+  background: #fff;
+  padding: 60px;
+  .section-title, 
+  .job-title, 
+  .degree, 
+  .cert-title, 
+  .recommendation-person, 
+  .time, 
+  .cert-url, 
+  .company, 
+  .recommendation-role, 
+  .university, 
+  .cert-org {
+    text-align: left;
+  }
+}
   .profile-container {
     padding: 30px;
     //background: darken($theme-color, 10%);
     background: rgba(0, 0, 0, 0.2);
-    text-align: justify; //center;
     color: #fff;
   }
   .name {
@@ -72,7 +96,6 @@ p {
     color: rgba(256, 256, 256, 0.6);
     font-size: 16px;
     font-weight: 400;
-    text-align: justify;
     margin-top: 0;
     margin-bottom: 0;
   }
@@ -121,7 +144,6 @@ p {
   .education-container {
     .item {
       margin-bottom: 15px;
-      text-align: justify;
       &:last-child {
         margin-bottom: 0;
       }
@@ -141,7 +163,6 @@ p {
   .languages-container {
     .lang-desc {
       color: rgba(256, 256, 256, 0.6);
-      text-align: justify;
     }
   }
 
@@ -175,7 +196,6 @@ p {
     text-transform: uppercase;
     font-size: 20px;
     font-weight: 500;
-    text-align: justify;
     color: darken($theme-color, 15%);
     position: relative;
     margin-top: 0;
@@ -197,7 +217,6 @@ p {
     position: relative;
     overflow: hidden;
     margin-bottom: 2px;
-    text-align: justify;
     display: flex;
   }
   .job-title,
@@ -209,7 +228,6 @@ p {
     margin-top: 0;
     margin-bottom: 0;
     font-weight: 500;
-    text-align: justify;
     flex: 75%;
   }
  
@@ -219,7 +237,6 @@ p {
     right: 0;
     top: 0;
     color: $text-grey;
-    text-align: justify;
     flex: 25%;
   }
   .company,
@@ -227,7 +244,6 @@ p {
   .university,
   .cert-org {
     margin-bottom: 10px;
-    text-align: justify;
     color: $text-grey;
   }
 
@@ -241,11 +257,9 @@ p {
   .projects-section {
     .intro {
       margin-bottom: 30px;
-      text-align: justify;
     }
     .item {
       margin-bottom: 15px;
-      text-align: justify;
     }
   }
   .oss-section {
@@ -271,11 +285,9 @@ p {
   .publications-section {
     .intro {
       margin-bottom: 30px;
-      text-align: justify;
     }
     .item {
       margin-bottom: 15px;
-      text-align: justify;
     }
   }
 }
