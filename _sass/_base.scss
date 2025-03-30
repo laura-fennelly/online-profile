@@ -41,6 +41,7 @@ p {
   max-width: 1000px;
   margin: 0 auto;
   position: relative;
+  text-align: justify;
   @include box-shadow(0px 2px 4px rgba(0, 0, 0, 0.1));
 }
 
@@ -48,6 +49,7 @@ p {
   grid-column: span 3;
   order: $sidebar-order;
   background: $theme-color;
+  text-align: justify;
   color: #fff;
   a {
     color: #fff;
@@ -117,6 +119,7 @@ p {
   .education-container {
     .item {
       margin-bottom: 15px;
+      text-align: justify;
       &:last-child {
         margin-bottom: 0;
       }
@@ -136,6 +139,7 @@ p {
   .languages-container {
     .lang-desc {
       color: rgba(256, 256, 256, 0.6);
+      text-align: justify;
     }
   }
 
@@ -169,6 +173,7 @@ p {
     text-transform: uppercase;
     font-size: 20px;
     font-weight: 500;
+    text-align: justify;
     color: darken($theme-color, 15%);
     position: relative;
     margin-top: 0;
@@ -190,6 +195,7 @@ p {
     position: relative;
     overflow: hidden;
     margin-bottom: 2px;
+    text-align: justify;
     display: flex;
   }
   .job-title,
@@ -201,6 +207,7 @@ p {
     margin-top: 0;
     margin-bottom: 0;
     font-weight: 500;
+    text-align: justify;
     flex: 75%;
   }
  
@@ -210,6 +217,7 @@ p {
     right: 0;
     top: 0;
     color: $text-grey;
+    text-align: justify;
     flex: 25%;
   }
   .company,
@@ -217,6 +225,7 @@ p {
   .university,
   .cert-org {
     margin-bottom: 10px;
+    text-align: justify;
     color: $text-grey;
   }
 
@@ -230,9 +239,11 @@ p {
   .projects-section {
     .intro {
       margin-bottom: 30px;
+      text-align: justify;
     }
     .item {
       margin-bottom: 15px;
+      text-align: justify;
     }
   }
   .oss-section {
@@ -258,9 +269,11 @@ p {
   .publications-section {
     .intro {
       margin-bottom: 30px;
+      text-align: justify;
     }
     .item {
       margin-bottom: 15px;
+      text-align: justify;
     }
   }
 }
