@@ -240,7 +240,7 @@ p,
   .project-title {
     font-size: 16px;
     font-style: bold;
-    font-weight: 900;
+    font-weight: 700;
     margin-top: 0;
     margin-bottom: 5px;
     color: darken($theme-color, 15%);
@@ -276,10 +276,10 @@ p,
   }
   .publications-section {
     .intro {
-      margin-bottom: 10px;
+      margin-bottom: 15px;
     }
     .item {
-      margin-bottom: 10px;
+      margin-bottom: 15px;
     }
   }
 }
