@@ -30,16 +30,15 @@ sidebar:
     info:
     - idiom: Apple | Above and Beyond Award
       level: 2021
-    - level: Award is for a select few chosen across Apples operations department for going above and beyond in work and expectations
+    - level: "Awarded to a select number of employees within Apple's Operations Department in recognition of going above and beyond in terms of work and expectations"
 
 
 career-profile:
   title: Professional Profile
   summary: |
-    With over 5+ years experience in data analytics working on strategic projects to improve operational efficiency from a range of organisational domains from digital technology services, supply chain operations, manufacturing, and end-user services. With a strong academic foundation, including an MSc in Computing (Artificial Intelligence) and a Bachelor's in Business Information Systems. 
-    Experience at global organisations such as DocuSign and Apple has provided skills in presenting complex data findings for executive-level reports. Strategic projects worked on have included the designing and implementing ETL data pipelines, predictive modelling, and interactive dashboards for analytical insights. 
-   
-    Looking for an opportunity to leverage current expertise in data analytics and AI-driven insights to support healthcare and operational efficiency, to provide meaningful impact to patients and end-users. Masters projects conducted research in AI-driven health literacy and epidemiological risk assessment. These projects demonstrate ability to integrate AI and data science techniques into real-world healthcare challenges.
+    Over 5 years experience in data analytics working on strategic projects to improve operational efficiency from a range of organisational domains such as digital technology services, supply chain operations, manufacturing, and end-user services. A strong academic foundation, including a MSc in Computing (Artificial Intelligence) and a Bachelor's in Business Information Systems, as well as experience at global organisations such as DocuSign,
+    this trajectory has provided skills in presenting complex data findings for executive-level reports. Strategic projects worked on have included the designing and implementation of ETL data pipelines, predictive modelling, and interactive dashboards for analytical insights. 
+    Looking for an opportunity to leverage current expertise in data analytics and AI-driven insights to support healthcare and operational efficiency, to provide meaningful impact to end-users. Masters projects conducted research in AI-driven health literacy and epidemiological risk assessment. These projects demonstrate ability to integrate AI and data science techniques into real-world healthcare challenges.
 
 education:
   title: Education
@@ -48,7 +47,7 @@ education:
     university: Dublin City University
     time: 2022 - 2024  |  First Class Honours
   - degree: Bachelor of Business (Honours) in Business Information Systems
-    university: Munster Technology University
+    university: Munster Technological University
     time: 2016 - 2020  |  First Class Honours
 
  
@@ -65,9 +64,9 @@ experiences:
         - Performed data wrangling: cleansing, transformation, and application of business logic to enhance data quality.
         - Conducted data validation, schema design, and integrity checks to ensure accuracy and consistency.
         - Designed SQL views to structure and optimise datasets for reporting.
-        - Developed Tableau dashboards, providing leadership with actionable insights.
+        - Developed Tableau dashboards, providing Leadership teams with actionable insights.
         - Led data-driven performance evaluations to optimise business processes and outcomes.
-        - Presented analytical findings and strategic recommendations to leadership on user engagement, operational performance, conversational intelligence, and automation opportunities.
+        - Presented analytical findings and strategic recommendations to Leadership teams on user engagement, operational performance, conversational intelligence, and automation opportunities.
 
       Business Intelligence & Strategic Insights:
       - Partnered with IT, business teams, and executives to define data requirements and translate business objectives into scalable technical solutions.
@@ -79,7 +78,7 @@ experiences:
       - Communicated complex data-driven insights through clear, executive-level reports and presentations.
 
       Machine Learning & Predictive Analytics:
-      - Applied statistical methods and predictive modeling techniques to identify trends and improve forecasting accuracy.
+      - Applied statistical methods and predictive modeling techniques for identifying trends and improving forecasting accuracy.
       - Designed, trained, tested, and deployed Natural Language Processing (NLP) models for knowledge extraction and pattern recognition.
       - Curated domain-specific training datasets to enhance model adaptability for company use cases.
       - Additional NLP modelling includes: custom SpaCy Named Entity Recognition (NER), Latent Dirichlet Allocation (LDA) for topic modeling, and RegEx for PII redaction.
@@ -89,24 +88,25 @@ experiences:
     company: Apple | Cork, Ireland
     details: |
       EMEIA Business Intelligence Analyst:
-        - Develop dynamic, user friendly and interchangeable dashboards for multi-disciplinary teams to automate manual tasks and reporting, saving the business over 30 hours of manual work weekly.
+        - Developed dynamic, interactive Tableau dashboards for multi-disciplinary teams to automate manual tasks and reporting.
+        - Saved the business over 30 hours of manual work weekly.
         - Concurrently lead and developed on multiple analytic projects across different functions from Logistics, Reseller Operations, Product Readiness, Supply Planning, and Manufacturing.
         - EMEIA representative for Quarterly Balance Scorecard, liaised with cross functional teams to supply performance commentary of KPI metrics.
       
       Business Analytics New Product Introduction lead:
-      - Requirement gathering cross functionally across operations. Recognise data needs of each function and prioritising support for monthly product launches.
-      - Establish and analysed plans to achieve milestones pre, during and post launch.
-      - Conduct new product launch post-mortems. Investigate areas of concern, critical issues, and identify process gaps.
+      - Gathered requirements cross functionally across operations. Recognised data needs of each function and prioritised support for monthly product launches.
+      - Established and analysed plans to achieve milestones pre, during and post launch.
+      - Conducted new product launch post-mortems. Investigated areas of concern, critical issues, and identify process gaps.
      
       Project Manager of Business Analytics Retail Operations project track:
-      - Provide weekly updates and host biweekly reviews for retail operations.
-      - Connect and collaborate with developers and business on projects to ensure deadlines are met.
-      - Managing the expectations of stakeholders, reviewing future projects on the list.
-      - Analysing for any links or cross over of processes/data flows between existing, past and future projects.
+      - Provided weekly updates and hosted biweekly reviews for retail operations.
+      - Connected and collaborated with developers and business on projects to ensure deadlines are met.
+      - Managed the expectations of stakeholders, reviewed future projects on the list.
+      - Analysed for any links or crossover of processes/data flows between existing, past and future projects.
       
       Operations System Support Business Analytics lead.
-      - Hosting System Sustaining /Preventative Management Syncs.
-      - Co-ordinate function/BPR leads to help with operation system issues.
+      - Hosted System Sustaining /Preventative Management Syncs.
+      - Co-ordinated function/BPR leads to help with operation system issues.
       - Evaluated how issues affected the business, regions or departments.
       
   - role: Business Analyst Intern
